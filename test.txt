@@ -1,0 +1,6 @@
+GIT 허브  설명 
+
+닉네임 jieun23 가져오고 
+
+https://github.com/jieun23/test.git-> 레파지토리 주소 
+
